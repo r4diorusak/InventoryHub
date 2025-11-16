@@ -303,25 +303,7 @@ app.UseCors("AllowAllOrigins");
 
 This enables the frontend to make requests to the backend API.
 
-## 📋 Submission Requirements (30 pts)
 
-- ✅ **GitHub Repository (5 pts)**: Full project hosted in Git
-- ✅ **Integration Code (5 pts)**: Clear client-server integration examples
-- ✅ **Debugging & Resolution (5 pts)**: Documented issue resolution with Copilot assistance
-- ✅ **JSON Structures (5 pts)**: Well-defined models and consistent responses
-- ✅ **Performance Optimization (5 pts)**: Async/await, caching, and query optimization
-- ✅ **Reflective Summary (5 pts)**: Comprehensive documentation of Copilot's assistance
-
-See `REFLECTION.md` for detailed coverage of all requirements.
-
-## 🤝 Acknowledgments
-
-This project was developed with assistance from **Microsoft Copilot**, which provided:
-- Code generation and suggestions
-- Debugging assistance and issue identification
-- Performance optimization recommendations
-- Best practices guidance
-- Documentation assistance
 
 ## 📄 License
 
@@ -333,7 +315,6 @@ For detailed information about specific areas:
 - **API Integration**: See `InventoryHub.Server/Controllers/ProductsController.cs`
 - **Frontend Integration**: See `InventoryHub.Client/index.html`
 - **Debugging Issues**: See `docs/DEBUGGING_RESOLUTION.md`
-- **Copilot Assistance**: See `REFLECTION.md`
 - **Performance Details**: See service and client implementation files
 
 ---
@@ -342,3 +323,4 @@ For detailed information about specific areas:
 **All Requirements Met:** ✅  
 **Documentation:** ✅ Comprehensive  
 **Code Quality:** ✅ Production-Ready
+
